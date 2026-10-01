@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+numpy
+imutils
+cvzone
+pyttsx3
+pillow
+dlib
